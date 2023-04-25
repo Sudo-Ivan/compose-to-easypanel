@@ -20,7 +20,7 @@
     "next": "12.2.4",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "yaml": "^2.1.1",
+    "yaml": "^2.2.2",
     "zod": "^3.17.10"
   },
   "devDependencies": {
